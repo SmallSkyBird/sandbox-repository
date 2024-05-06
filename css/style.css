@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+img{
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+
+}
+/* you can directly use universal tags to apply universal changes*/
+.username{
+    font-weight: bold;
+}
